@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![](https://img.shields.io/badge/Homepage-blue??&style=flat-square&logo=google-chrome&logoColor=white)](https://zhjohnchan.github.io/)
-[![](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=y55sF8cAAAAJ&hl=zh-CN)
+[![](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=y55sF8cAAAAJ&hl=en)
 ![](https://img.shields.io/github/stars/zhjohnchan?style=flat-square&logo=github&label=Github%20Stars&labelColor=gray&color=gray)
